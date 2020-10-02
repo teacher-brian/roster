@@ -1,7 +1,7 @@
 # Using Rselenium ------------------------------------------------------------
 library(RSelenium)
 library(tidyverse)
-library(XML)
+
 library(rvest)
 
 # Log in to inside seattle -------------------------------------------------------------------------
